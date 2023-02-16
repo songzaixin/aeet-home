@@ -1,71 +1,45 @@
-# Homepage  |  Dr. Zaixin Song
-
-<div align=center><img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:25%;" /></div>
-
-<center><font size=12> Zaixin SONG </font></center>
-
-# More About Me, Please See
-
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Activity](https://songzaixin.github.io/cv-activity/) | [Team](https://songzaixin.github.io/cv-team/) |
+# Applied Energy & Electromagnetic Technology (AEET) Lab
 
 ---
 
+| [Home](https://songzaixin.github.io/aeet-home/)  | [Research](https://songzaixin.github.io/aeet-research/) | [Outcome](https://songzaixin.github.io/aeet-outcome/) | [Teaching](https://songzaixin.github.io/aeet-teaching/) | [People](https://songzaixin.github.io/aeet-people/) | [Activity](https://songzaixin.github.io/aeet-activity/) | [Join Us](https://songzaixin.github.io/aeet-joinus/) |
+
 ---
 
+# Recent News
 
-# My Brief Introduction
+<table><tr><td bgcolor=#e0e0e0><font color=red>CALL For PAPER!</font> Special Session <a href="https://www.iecon2023.org/">"Emerging Technologies in Electric Propulsion for Advancing Electric Vehicles"</a> in The 46th Annual Conference of the IEEE Industrial Electronics Society (IECON) @ Singapore, Submission Deadline: 31-May-2023</td></tr> <tr><td>Organized by Prof. Mehdi Narimani, Dr. Wei Liu, Dr. Zaixin Song, Dr. Xiaoyang Tian, and Prof. Babak Nahid-Mobarakeh</td></tr></table>
 
-I have become a research fellow on ***electric machine*** since 2016. I received the B.Eng. and M.Eng. degrees in electrical engineering and automation from Harbin Institute of Technology (HIT), Harbin, China, in 2016 and 2018, respectively. I received the Ph.D. degree in School of Energy and Environment from City University of Hong Kong in 2021. I have been working on electric machine for years. Currently, I work as a ***Postdoctoral Fellow*** in City University of Hong Kong. 
+<table><tr><td bgcolor=#e0e0e0><font color=red>CALL For PAPER!</font> Special Session <a href="https://2023.ieee-isie.org/">"Emerging Machine Learning-based Technologies in Electric Machines and Power Electronics"</a> in IEEE Annual International Symposium on Industrial Electronics (ISIE) 2023 @ Finland, Submission Deadline: 28-Feb-2023</td></tr> <tr><td>Organized by Dr. Zaixin Song, Dr. Chunhua Liu, Dr. Tao Yang, and Dr. Senyi Liu</td></tr></table>
 
-My research interests cover the design, analysis, optimization, and control of emerging permanent magnet machines particularly the high-speed machines and multi-phase machines, propulsion motors for automotive and aerospace applications, multi-physics modeling, simulation, and tests.
+<table><tr><td bgcolor=#e0e0e0>Special Issue <a href="https://www.mdpi.com/journal/energies/special_issues/02V4PXR20A">"Energy Management and Storage Systems on Electric Vehicles"</a> in MDPI journal "Energies", Submission Deadline: 20-Jun-2023</td></tr> <tr><td>Organized by Dr. Zaixin Song, Dr. Jin Ye, and Dr. Taner Goktas</td></tr></table>
 
-### [<u>Download My CV</u> ⇲](https://drive.google.com/file/d/1ssM0pGFWX6SaiNCHqL9eUhrfuqQrdNe0/view)
+<table><tr><td bgcolor=#e0e0e0>Special Issue <a href="https://www.mdpi.com/journal/energies/special_issues/G6B97UE43F">"Portable Power Generation and Energy Harvesting with Advanced Electric Devices"</a> in MDPI journal "Energies", Submission Deadline: 30-Dec-2023</td></tr> <tr><td>Organized by Dr. Zaixin Song, Dr. Chunhua Liu, Dr. Xiao Yang, Dr. Hang Zhao, and Dr. Senyi Liu</td></tr></table>
 
-# Research Interests
-
-Electric Machinery (Electric Motor & Generator): 
-
-* Permanent magnet synchronous machines, Brushless DC machines, Variable-speed drives; 
-
-* High-power-density machines, Slotless machines, Disc-type machines; 
-
-* High-torque-density machines, Flux-modulated machines, Compound magnetic-geared machines, Permanent magnet vernier machines, Axial-flux machines, Multi-port machines; 
-
-* Linear actuator machines, Wireless motor drives. 
-
-Electric Machine Design & Analysis: 
-
-* Energy-efficient machine design, Multi-objective optimization with intelligent machine learning algorithms, Human-machine collaborative machine design, Topology optimization; 
-
-* Magnetic field analysis, Analytical modeling, Semi-analytical modeling, Hybrid analytical modeling; 
-* Multi-physics modeling, Electromechanical vibration & acoustic noise analysis, NVH performance optimization, Thermal analysis, Multi-physics performance test. 
-
-Motor Control: 
-
-* Multi-phase motor control, Open-end-winding motor control, Series-end-winding motor control; 
-* Space vector control, Carrier-based PWM control. 
-
-Expertise in Fields: 
-* Transportation Electrification: Electric traction for electric & hybrid electric vehicles, Electric propulsion for electric & hybrid electric aircraft, Low-speed electric propulsion for electric ships, Aerospace actuation; 
-* Industrial Actuation Systems: Servo system, Robotic actuation, Linear actuator for laser cut;
-* Renewable Power Generation: Wind power generation, Tidal power generation, Wave power generation, Energy harvesting. 
+<table><tr><td>See you at:</td></tr>
+<tr><td><a href="https://intermag.org/">2023 IEEE Intermag</a> @ Japan</td></tr>
+<tr><td><a href="https://2023.ieee-isie.org/">2023 IEEE IES ISIE</a> @ Finland</td></tr>
+<tr><td><a href="https://www.iecon2023.org/">2023 IEEE IES IECON</a> @ Singapore</td></tr>
+<tr><td><a href="https://www.icems2023.com/">2023 IEEE IAS ICEMS</a> @ Zhuhai, China</td></tr>
+</table>
 
 
-# Related Organizations
+---
+
+Related Organizations
 
 <div align=left>
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:10%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:40%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:5%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:30%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-polyu.png" alt="image-cityu" style="zoom:15%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:10%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:40%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:5%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:30%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
 </div>
+
 
 ---
 
-Created by *Zaixin Song*
-
-Contact Me: 
-* Email: zaixin.song@cityu.edu.hk
-* WeChat: song_zaixin
+© 2022 by Zaixin Song. All rights reserved. 
+Last Update: Feb-2023
 
